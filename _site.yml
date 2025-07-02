@@ -23,7 +23,7 @@ navbar:
     href: mentorship.html
     icon: fa-graduation-cap
   - text: Curriculum Vitae
-    href: "./resume/AJohnson_CVFall2024_v2.pdf"
+    href: "./resume/AJohnson_CVSpring2025.pdf"
     icon: fa-id-card
   right:
   - icon: fa-brands fa-researchgate

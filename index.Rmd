@@ -1,5 +1,4 @@
 ---
-title: "Homepage"
 output:
   html_document:
     toc: no
@@ -24,13 +23,13 @@ knitr::include_graphics("./images/BridgeMe.jpg")
    
 <h4 style="text-align: center;">
 
-Email: ajohn154[at]ur.rochester[dot]edu
+Email: alycia.johnson25[at]gmail[dot]com
 
 </h4>     
 
 Being a military child, I was born in Japan and have lived all over the world. I received my B.S. in Biology specializing in Conservation Biology from the University of Southern Mississippi. While there, I worked in Dr. Kaitlin Baudier’s lab focusing on the natural history and thermal physiology of Mischocyttarus phthisicus in Puerto Rico. I also worked on the thermal physiology of Mischocyttarus mexicanus in New Orleans, LA.
 
-I came to the University of Rochester in the Fall of 2023. I am generally interested in plasticity, local thermal adaptations, and social evolution. My research in [Dr. Floria Uy's lab](https://tropbiolab.org/FMKU/) will focus on local climatic adaptations in the Mischocyttarus mexicanus genome across a large climatic gradient in southeastern USA. This will consist of identifying the genes undergoing thermal selection, modeling the demographic history of these populations to model future range expansions, and linking genetic signatures of selection to behavioral and morphological traits. Overall, I hope to bridge the gap between lab-based genetics and genomics with field-based ecology and make science accessible to the general public.
+I am currently working towards my Master's Degree at the University of Rochester Department of Biology. I am generally interested in plasticity, local thermal adaptations, and social evolution. My research at UofR focused on local climatic adaptations in the Mischocyttarus mexicanus genome across a large climatic gradient in southeastern USA. This consisted of identifying the genes undergoing thermal selection and modeling the demographic history of these populations to model future range expansions. Overall, I hope to bridge the gap between lab-based genetics and genomics with field-based ecology and make science accessible to the general public.
 
 
 ----------------------------------
@@ -44,7 +43,7 @@ I came to the University of Rochester in the Fall of 2023. I am generally intere
 <!-- 1. _**Das, B.**, Brouns, R., Will, I., Brachmann, A., de Bekker, C. (2023)_ Using RNASeq to investigate the involvement of the _Ophiocordyceps_ clock in ant host infection and behavioral manipulation. _bioRxiv_ [*PDF*](https://www.biorxiv.org/content/10.1101/2023.01.20.524843v2.abstract) -->
 <!-- <div class='altmetric-embed' data-badge-popover="right" data-badge-type='donut' data-doi="10.1101/2023.01.20.524843"></div> -->
 
-3. _**Johnson, A. N.**, Cook, H., Reeve, H. K., & Uy, F. M. K._ (in prep). Grouping with non-kin: when potential joiners and residents should be mutually accepting. 
+3. _Uy, F. M. K., **Johnson, A. N.**, Cook, H., & Reeve, H. K. _ (in prep). Grouping with non-kin: when potential joiners and residents should be mutually accepting. 
 
 -----
 
